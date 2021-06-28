@@ -7,5 +7,6 @@ public class test {
         System.out.println("123");
         System.out.println("aaa");
         System.out.println("master");
+        System.out.println("push");
     }
 }

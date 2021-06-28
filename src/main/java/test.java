@@ -4,7 +4,7 @@
  */
 public class test {
     public static void main(String[] args) {
-        Systehot-fixm.out.println("123");
+        System.out.println("123");
         System.out.println("aaa");
         System.out.println("hot-fix");
     }
